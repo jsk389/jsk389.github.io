@@ -9,10 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
+Current Position
+======
+* Postdoctoral researcher, SAGE, Max-Planck-Insitute for Solar System Research, 2017-
+
 Education
 ======
-* MPhys. in Physics, University of Warwick, 2013
-* Ph.D in Astrophysics, University of Birmingham, 2017
+* Ph.D in Astrophysics, University of Birmingham, 2013-2017
+  * Buoyancy-driven oscillations in helio- and asteroseismology
+  * Supervisor: Prof. Bill Chaplin
+* MPhys. in Physics, University of Warwick, 2009-2013
 
 Work experience
 ======
