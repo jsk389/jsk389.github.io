@@ -11,21 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* MPhys. in Physics, University of Warwick, 2013
+* Ph.D in Astrophysics, University of Birmingham, 2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2012: Research Assistant
+  * URSS project scheme
+  * Using data from the LHCb experiment at CERN to search for rare particle decays
+  * Supervisor: Dr Michal Kreps
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2011: Summer Intern
+  * CGG Veritas
+  * Worked as part of a team given the task of processing seismic data.
   
 Skills
 ======
