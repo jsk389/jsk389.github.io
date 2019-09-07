@@ -31,14 +31,14 @@ Work experience
   * CGG Veritas
   * Worked as part of a team given the task of processing seismic data
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+#Skills
+#======
+#* Skill 1
+#* Skill 2
+#  * Sub-skill 2.1
+#  * Sub-skill 2.2
+#  * Sub-skill 2.3
+#* Skill 3
 
 Publications
 ======
@@ -58,6 +58,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+#Service and leadership
+#======
+#* Currently signed in to 43 different slack teams
