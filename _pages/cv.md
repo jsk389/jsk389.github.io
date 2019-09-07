@@ -23,7 +23,7 @@ Work experience
 
 * Summer 2011: Summer Intern
   * CGG Veritas
-  * Worked as part of a team given the task of processing seismic data.
+  * Worked as part of a team given the task of processing seismic data
   
 Skills
 ======
