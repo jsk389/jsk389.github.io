@@ -160,6 +160,9 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
+# Skin
+minimal_mistakes_skin: "neon" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+
 
 # Markdown Processing
 kramdown:
