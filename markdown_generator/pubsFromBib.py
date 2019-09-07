@@ -114,8 +114,8 @@ for pubsource in publist:
                 venue = 'Monthly Notices of the Royal Astronomical Society'
             print("VENUE: ", venue)
 
-            citation = citation + " " + html_escape(venue)
-            citation = citation + ", " + pub_year + "."
+            #citation = citation + " " + html_escape(venue)
+            #citation = citation + ", " + pub_year + "."
 
             
             ## YAML variables
