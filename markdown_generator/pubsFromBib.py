@@ -100,13 +100,17 @@ for pubsource in publist:
 
             #citation authors - todo - add highlighting for primary author?
             for author in bibdata.entries[bib_id].persons["author"]:
-                citation = citation+" "+author.first_names[0]+" "+author.last_names[0]+", "
+                citation = citation+" "+author.first_names[0].replace("{","").replace("}","")+" "+author.last_names[0].replace("{","").replace("}","")+", "
 
             #citation title
             citation = citation + "\"" + html_escape(b["title"].replace("{", "").replace("}","").replace("\\","")) + ".\""
 
             #add venue logic depending on citation type
             venue = publist[pubsource]["venue-pretext"]+b[publist[pubsource]["venuekey"]].replace("{", "").replace("}","").replace("\\","")
+            print("VENUE: ", venue)
+            if venue == 'mnras':
+                venue = 'Monthly Notices of the Royal Astronomical Society'
+            print("VENUE: ", venue)
 
             citation = citation + " " + html_escape(venue)
             citation = citation + ", " + pub_year + "."
