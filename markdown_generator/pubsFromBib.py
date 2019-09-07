@@ -100,11 +100,11 @@ for pubsource in publist:
 
             #citation authors - todo - add highlighting for primary author?
             for author in bibdata.entries[bib_id].persons["author"]:
-                if author.first_names[0] == 'James' and author.last_names[0] == 'Kuszlewicz':
-                    citation = citation+" __"+author.first_names[0].replace("{","").replace("}","")+"__ __"+author.last_names[0].replace("{","").replace("}","")+"__, "
-
-                citation = citation+" "+author.first_names[0].replace("{","").replace("}","")+" "+author.last_names[0].replace("{","").replace("}","")+", "
-
+                if author.last_names[0] == '{Kuszlewicz}':
+                    citation = citation+r" **"+author.first_names[0].replace("{","").replace("}","")+" "+author.last_names[0].replace("{","").replace("}","")+r"**, "
+                else:
+                    citation = citation+" "+author.first_names[0].replace("{","").replace("}","")+" "+author.last_names[0].replace("{","").replace("}","")+", "
+            print(citation)
             #citation title
             citation = citation + "\"" + html_escape(b["title"].replace("{", "").replace("}","").replace("\\","")) + ".\""
 
