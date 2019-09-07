@@ -6,4 +6,4 @@ date: 2019-07-01
 venue: 'Monthly Notices of the Royal Astronomical Society'
 citation: ' <b>James Kuszlewicz</b>,  Thomas North,  William Chaplin,  Allyson Bieryla,  David Latham,  Andrea Miglio,  Keaton Bell,  Guy Davies,  Saskia Hekker,  Tiago Campante,  Sebastien Deheuvels,  Mikkel Lund, &quot;KOI-3890: a high-mass-ratio asteroseismic red giant+M-dwarf eclipsing binary undergoing heartbeat tidal interactions.&quot; Monthly Notices of the Royal Astronomical Society, 2019.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=KOI+3890:+a+high+mass+ratio+asteroseismic+red+giant+M+dwarf+eclipsing+binary+undergoing+heartbeat+tidal+interactions){:target="_blank"} for full citation
+[Access paper from ADS here](https://ui.adsabs.harvard.edu/abs/2019MNRAS.487...14K){:target="_blank"}

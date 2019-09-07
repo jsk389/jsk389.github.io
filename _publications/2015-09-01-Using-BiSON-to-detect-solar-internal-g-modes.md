@@ -6,4 +6,4 @@ date: 2015-09-01
 venue: 'In the proceedings of European Physical Journal Web of Conferences'
 citation: ' <b>J. Kuszlewicz</b>,  G. Davies,  W. Chaplin, &quot;Using BiSON to detect solar internal g-modes.&quot; In the proceedings of European Physical Journal Web of Conferences, 2015.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Using+BiSON+to+detect+solar+internal+g+modes){:target="_blank"} for full citation
+[Access paper from ADS here](https://ui.adsabs.harvard.edu/abs/2015EPJWC.10106041K){:target="_blank"}
