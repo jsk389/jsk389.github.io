@@ -105,7 +105,7 @@ for pubsource in publist:
                 else:
                     citation = citation+" "+author.first_names[0].replace("{","").replace("}","")+" "+author.last_names[0].replace("{","").replace("}","")+", "
             #citation title
-            citation = citation + "\"" + html_escape(b["title"].replace("{", "").replace("}","").replace("\\","")) + ".\""
+            #citation = citation + "\"" + html_escape(b["title"].replace("{", "").replace("}","").replace("\\","")) + ".\""
 
             #add venue logic depending on citation type
             venue = publist[pubsource]["venue-pretext"]+b[publist[pubsource]["venuekey"]].replace("{", "").replace("}","").replace("\\","")
