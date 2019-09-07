@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "James Kuszlewicz / Site Title"
+title                    : "James Kuszlewicz"
 title_separator          : "-"
 name                     : &name "James Kuszlewicz"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "James Kuszlewicz"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Postdoctoral Researcher"
   location         : "Göttingen, Germany"
   employer         :
   pubmed           : 
