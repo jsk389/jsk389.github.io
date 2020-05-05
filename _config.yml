@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "James Kuszlewicz"
   avatar           : "avatar1.jpg"
-  bio              : "Postdoctoral Researcher"
-  location         : "Göttingen, Germany"
+  bio              : "Astrophysicist | Bayesian | Machine Learning enthusiast | Data Scientist"
+  location         : "Bedford, UK"
   employer         :
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "kuszlewicz@mps.mpg.de"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : 
+  email            : "james.kuszlewicz@gmail.com"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/jameskuszlewicz/"
+  linkedin         : "jameskuszlewicz/"
   orcid            : "http://orcid.org/0000-0002-3322-5279"
   pinterest        :
   soundcloud       :
@@ -161,7 +161,7 @@ excerpt_separator: "\n\n"
 incremental: false
 
 # Skin
-minimal_mistakes_skin: "neon" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
 
 # Markdown Processing
@@ -258,7 +258,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/London # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
